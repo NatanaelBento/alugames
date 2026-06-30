@@ -1,6 +1,6 @@
-========================================================================
-SISTEMA DE GERENCIAMENTO DE ALUGUEL DE JOGOS (DASHBOARD)
-========================================================================
+
+# SISTEMA DE GERENCIAMENTO DE ALUGUEL DE JOGOS (DASHBOARD)
+
 
 Este projeto consiste em uma aplicação interativa para gerenciar o status 
 de aluguel de jogos de tabuleiro através de um painel web (Dashboard). O 
